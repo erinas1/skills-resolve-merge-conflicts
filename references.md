@@ -1,3 +1,2 @@
-# References
+These are my personal references for the resume.
 
-* octocat 1 😈
